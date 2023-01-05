@@ -1,9 +1,10 @@
 <a href="https://zupimages.net/viewer.php?id=23/01/2eaz.png"><img src="https://zupimages.net/up/23/01/2eaz.png" alt="" /></a>
 
-<br><a href="https://discord.gg/55stk4P6n5" rel="nofollow"><img src="https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667" alt="Chatter sur Discord" style="max-width: 100%;"></a></br>
+<a href="https://discord.gg/55stk4P6n5" rel="nofollow"><img src="https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667" alt="Chatter sur Discord" style="max-width: 100%;"></a>
 
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/d6ce908070c9d2616c40d7f807b36c61331c5a4e5069331b1e1b38e838027970/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c76322d626c75652e737667"><img src="https://camo.githubusercontent.com/d6ce908070c9d2616c40d7f807b36c61331c5a4e5069331b1e1b38e838027970/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d47504c76322d626c75652e737667" alt="Licence" data-canonical-src="https://img.shields.io/badge/License-GPLv2-blue.svg" style="max-width: 100%;"></a>
 
+<a href="https://i.postimg.cc/Pq4KLs2q/bouton.png" rel="nofollow"><img src="https://i.postimg.cc/Pq4KLs2q/bouton.png" alt="Chatter sur Discord" style="max-width: 100%;"></a>
 
 <h1>Crédits :</h1>
 
